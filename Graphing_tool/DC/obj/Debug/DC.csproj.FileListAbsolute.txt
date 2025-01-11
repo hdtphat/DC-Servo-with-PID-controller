@@ -1,0 +1,125 @@
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\DC.exe.config
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\DC.exe
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\DC.pdb
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ZedGraph.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ZedGraph.Web.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ZedGraph.xml
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ZedGraph.Web.xml
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.Main.resources
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.Properties.Resources.resources
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.exe
+C:\Users\dauden\Desktop\C30.X\DC\DC\obj\Debug\DC.pdb
+C:\Users\Home\Desktop\C30\C30\DC\DC\bin\Debug\DC.exe.config
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.exe
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.pdb
+C:\Users\Home\Desktop\C30\C30\DC\DC\bin\Debug\DC.exe
+C:\Users\Home\Desktop\C30\C30\DC\DC\bin\Debug\DC.pdb
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.Main.resources
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.Properties.Resources.resources
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\C30\C30\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+E:\UTE\MyProjects\DC servo\DC\DC\bin\Debug\DC.exe.config
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.exe
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.pdb
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.Main.resources
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.Properties.Resources.resources
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+E:\UTE\MyProjects\DC servo\DC\DC\bin\Debug\DC.exe
+E:\UTE\MyProjects\DC servo\DC\DC\bin\Debug\DC.pdb
+E:\UTE\MyProjects\DC servo\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+D:\C30\C30\DC\DC\bin\Debug\DC.exe.config
+D:\C30\C30\DC\DC\bin\Debug\DC.exe
+D:\C30\C30\DC\DC\bin\Debug\DC.pdb
+D:\C30\C30\DC\DC\obj\Debug\DC.Main.resources
+D:\C30\C30\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\C30\C30\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\C30\C30\DC\DC\obj\Debug\DC.exe
+D:\C30\C30\DC\DC\obj\Debug\DC.pdb
+E:\UTE\MyProjects\DC servo\C30\DC\DC\bin\Debug\DC.exe.config
+E:\UTE\MyProjects\DC servo\C30\DC\DC\obj\Debug\DC.exe
+E:\UTE\MyProjects\DC servo\C30\DC\DC\obj\Debug\DC.pdb
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\bin\Debug\DC.exe.config
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.exe
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.pdb
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\bin\Debug\DC.exe
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\bin\Debug\DC.pdb
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.Main.resources
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\UTE\MyProjects\DE TAI SV\DC servo\C30\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\doan\code exam\DC\DC\bin\Debug\DC.exe.config
+D:\doan\code exam\DC\DC\obj\Debug\DC.exe
+D:\doan\code exam\DC\DC\obj\Debug\DC.pdb
+D:\doan\code exam\DC\DC\bin\Debug\DC.exe
+D:\doan\code exam\DC\DC\obj\Debug\DC.Main.resources
+D:\doan\code exam\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\doan\code exam\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\doan\code exam\DC\DC\bin\Debug\DC.pdb
+D:\doan\code exam\DCY\DC\DC\bin\Debug\DC.exe.config
+D:\doan\code exam\DCY\DC\DC\bin\Debug\DC.exe
+D:\doan\code exam\DCY\DC\DC\bin\Debug\DC.pdb
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.Main.resources
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.exe
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.pdb
+D:\doan\code exam\DCY\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+D:\doan\code exam2\done 50205\DCY\DC\DC\bin\Debug\DC.exe.config
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.exe
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.pdb
+D:\doan\code exam2\done 50205\DCY\DC\DC\bin\Debug\DC.exe
+D:\doan\code exam2\done 50205\DCY\DC\DC\bin\Debug\DC.pdb
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.Main.resources
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\doan\code exam2\done 50205\DCY\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.exe.config
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.exe
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.pdb
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.exe
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.pdb
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.Main.resources
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.Properties.Resources.resources
+C:\Users\ChuongVo\Desktop\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.exe.config
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.exe
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\bin\Debug\DC.pdb
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.Main.resources
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.Properties.Resources.resources
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.csproj.GenerateResource.Cache
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.exe
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.pdb
+D:\Softwares\codeDCservo\done 50205\file Điều khiển\DC\DC\obj\Debug\DC.csprojResolveAssemblyReference.cache
+C:\Users\ChuongVo\Desktop\DCservo\file Điều khiển\DC\DC\bin\Debug\DC.exe.config
+C:\Users\ChuongVo\Desktop\DCservo\file Điều khiển\DC\DC\obj\Debug\DC.exe
+C:\Users\ChuongVo\Desktop\DCservo\file Điều khiển\DC\DC\obj\Debug\DC.pdb
+E:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\M4_DC servo\DCservo\Visual C#\DC\bin\Debug\DC.exe.config
+E:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\M4_DC servo\DCservo\Visual C#\DC\obj\Debug\DC.exe
+E:\UTE\TeachingCourses\Servo Systems\TN Servo\TNServo\M4_DC servo\DCservo\Visual C#\DC\obj\Debug\DC.pdb
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\bin\Debug\DC.exe.config
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\bin\Debug\DC.exe
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\bin\Debug\DC.pdb
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\obj\Debug\DC.csproj.AssemblyReference.cache
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\obj\Debug\DC.Main.resources
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\obj\Debug\DC.Properties.Resources.resources
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\obj\Debug\DC.csproj.GenerateResource.cache
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\obj\Debug\DC.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\obj\Debug\DC.csproj.CopyComplete
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\obj\Debug\DC.exe
+C:\Users\Hoang Tien Phat\Desktop\Graphing_tool_VLChuong\DC\obj\Debug\DC.pdb
